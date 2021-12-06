@@ -1,4 +1,4 @@
-# UAb_fixedPointIteration
+# Fixed-Point Iteration
 
 [![Octave Ready to Run](https://img.shields.io/badge/Octave-Ready_to_Run-informational?logo=octave&labelColor=white)](https://octav.onl/cn2020efa_da)
 
