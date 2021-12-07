@@ -6,5 +6,5 @@
 
 [PT] Este projeto foi realizado no âmbito da Unidade Curricular de **Computação Numérica** da Licenciatura em Engenharia Informática da Universidade Aberta no ano letivo de 2020-21.
 	
-## <a href="https://www.gnu.org/software/octave/index"><img src="https://raw.githubusercontent.com/4ntony4/UAb/bd3ceaf8d913be6d447fa2705434bc1b7de3261d/img/logos/octave/octave_logo.svg" alt="Octave" width="45"></a> Octave
-Run it on <a href="https://octave-online.net/"><img src="https://raw.githubusercontent.com/4ntony4/UAb/86d3a61d4bda09e2a316f9326ef5c5d438e21e91/img/logos/octave_online/octave_online_logo.svg" alt="Octave Online" height="20"></a> [here](https://octav.onl/cn2020efa_da).
+## <a href="https://www.gnu.org/software/octave/index"><img src="https://raw.githubusercontent.com/4ntony4/UAb/eba38fc374dc7ba986ecfb0b1a54e4c4ccc5117b/img/logos/octave/octave.svg" alt="Octave" width="45"></a> Octave
+Run it on <a href="https://octave-online.net/"><img src="https://raw.githubusercontent.com/4ntony4/UAb/eba38fc374dc7ba986ecfb0b1a54e4c4ccc5117b/img/logos/octave_online/octave_online.svg" alt="Octave Online" height="20"></a> [here](https://octav.onl/cn2020efa_da).
